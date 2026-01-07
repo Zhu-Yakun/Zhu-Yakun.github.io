@@ -5,9 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+url: "https://zhu-yakun.github.io"
+baseurl: ""
+
 # Site Settings
 title                    : "Yakun Zhu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Undergraduate student at Tongji University, majoring in Computer Science"
 repository               : "Zhu-Yakun/Zhu-Yakun.github.io"
 google_scholar_stats_use_cdn : true
 
