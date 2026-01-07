@@ -42,7 +42,9 @@ Hongtu Zhou, Ruiling Yang, **Yakun Zhu**, Haoqi Zhao, Hai Zhang, Di Zhang, Junqi
 **International Conference on Machine Learning (ICML)**, 2025
 
 - Proposed a context uncertainty-aware framework for offline meta-RL.
-- [**Project Page**](https://github.com/tiev-tongji/Certain) | [**Paper**](https://icml.cc/virtual/2025/poster/44655) </div>
+- [**Project Page**](https://github.com/tiev-tongji/Certain) | [**Paper**](https://icml.cc/virtual/2025/poster/44655)
+
+</div>
 </div>
 
 # 🎖 Honors and Awards
